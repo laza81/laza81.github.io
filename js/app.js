@@ -1,6 +1,5 @@
 $(document).foundation()
 
-
 // ===== ==== 
 //"Traduzione scritta","Traduzione scritta",false,false), 0); > quantita
 //	  prestazioni.options.add(new Option("Interpretariato verbale","Interpretariato verbale",false,false), 1); > Durata in minuti 
