@@ -1,4 +1,4 @@
 User-agent: *
 Disallow: 
 
-Sitemap: http://www.globustraduzioni.it/sitemap.xml
+Sitemap: https://globustraduzioni.it/sitemap.xml
