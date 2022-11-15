@@ -1,157 +1,136 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<urlset
-      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
-      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
-            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
-<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
-
-
-<url>
-  <loc>https://globustraduzioni.it/</loc>
-  <lastmod>2021-05-26T20:42:25+00:00</lastmod>
-  <priority>1.00</priority>
-</url>
-<url>
-  <loc>https://globustraduzioni.it/index.html</loc>
-  <lastmod>2021-05-26T20:42:25+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://globustraduzioni.it/en/index-en.html</loc>
-  <lastmod>2021-05-26T20:42:25+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://globustraduzioni.it/ru/index-ru.html</loc>
-  <lastmod>2021-05-26T20:42:25+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://globustraduzioni.it/it/chi-sono.html</loc>
-  <lastmod>2021-05-26T20:42:25+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://globustraduzioni.it/it/dicono-di-me.html</loc>
-  <lastmod>2021-05-26T20:42:25+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://globustraduzioni.it/it/macchinari.html</loc>
-  <lastmod>2021-05-26T20:42:25+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://globustraduzioni.it/it/vino.html</loc>
-  <lastmod>2021-05-26T20:42:25+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://globustraduzioni.it/it/turismo.html</loc>
-  <lastmod>2021-05-26T20:42:25+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://globustraduzioni.it/it/le-mie-traduzioni.html</loc>
-  <lastmod>2021-05-26T20:42:25+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://globustraduzioni.it/it/contatti.html</loc>
-  <lastmod>2021-05-26T20:42:25+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://globustraduzioni.it/it/preventivo.html</loc>
-  <lastmod>2021-05-26T20:42:25+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://globustraduzioni.it/en/about-myself.html</loc>
-  <lastmod>2021-05-26T20:42:25+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://globustraduzioni.it/en/they-say-about-me.html</loc>
-  <lastmod>2021-05-26T20:42:25+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://globustraduzioni.it/en/machinery.html</loc>
-  <lastmod>2021-05-26T20:42:25+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://globustraduzioni.it/en/wine.html</loc>
-  <lastmod>2021-05-26T20:42:25+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://globustraduzioni.it/en/tourism.html</loc>
-  <lastmod>2021-05-26T20:42:25+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://globustraduzioni.it/en/my-translations.html</loc>
-  <lastmod>2021-05-26T20:42:25+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://globustraduzioni.it/en/contacts.html</loc>
-  <lastmod>2021-05-26T20:42:25+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://globustraduzioni.it/en/freequote.html</loc>
-  <lastmod>2021-05-26T20:42:25+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://globustraduzioni.it/ru/about-myself-ru.html</loc>
-  <lastmod>2021-05-26T20:42:25+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://globustraduzioni.it/ru/they-say-about-me-ru.html</loc>
-  <lastmod>2021-05-26T20:42:25+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://globustraduzioni.it/ru/machinery-ru.html</loc>
-  <lastmod>2021-05-26T20:42:25+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://globustraduzioni.it/ru/wine-ru.html</loc>
-  <lastmod>2021-05-26T20:42:25+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://globustraduzioni.it/ru/tourism-ru.html</loc>
-  <lastmod>2021-05-26T20:42:25+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://globustraduzioni.it/ru/my-translations-ru.html</loc>
-  <lastmod>2021-05-26T20:42:25+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://globustraduzioni.it/ru/contacts-ru.html</loc>
-  <lastmod>2021-05-26T20:42:25+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://globustraduzioni.it/ru/freequote-ru.html</loc>
-  <lastmod>2021-05-26T20:42:25+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://globustraduzioni.it/it/macchinari</loc>
-  <lastmod>2021-05-26T20:42:25+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-
-
+﻿<?xml version="1.0" encoding="utf-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <!--Url Extract: 24-->
+  <url>
+    <loc>https://globustraduzioni.it/</loc>
+    <lastmod>2022-11-15</lastmod>
+    <changefreq>always</changefreq>
+    <priority>1.0</priority>
+  </url>
+  <url>
+    <loc>https://globustraduzioni.it/index.html</loc>
+    <lastmod>2022-11-15</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://globustraduzioni.it/en/index-en.html</loc>
+    <lastmod>2022-11-15</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://globustraduzioni.it/ru/index-ru.html</loc>
+    <lastmod>2022-11-15</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://globustraduzioni.it/it/chi-sono.html</loc>
+    <lastmod>2022-11-15</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://globustraduzioni.it/it/dicono-di-me.html</loc>
+    <lastmod>2022-11-15</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://globustraduzioni.it/it/macchinari.html</loc>
+    <lastmod>2022-11-15</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://globustraduzioni.it/it/turismo.html</loc>
+    <lastmod>2022-11-15</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://globustraduzioni.it/it/vino.html</loc>
+    <lastmod>2022-11-15</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://globustraduzioni.it/it/contatti.html</loc>
+    <lastmod>2022-11-15</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://globustraduzioni.it/en/about-myself.html</loc>
+    <lastmod>2022-11-15</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://globustraduzioni.it/en/they-say-about-me.html</loc>
+    <lastmod>2022-11-15</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://globustraduzioni.it/en/machinery.html</loc>
+    <lastmod>2022-11-15</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://globustraduzioni.it/en/tourism.html</loc>
+    <lastmod>2022-11-15</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://globustraduzioni.it/en/wine.html</loc>
+    <lastmod>2022-11-15</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://globustraduzioni.it/en/contacts.html</loc>
+    <lastmod>2022-11-15</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://globustraduzioni.it/ru/about-myself-ru.html</loc>
+    <lastmod>2022-11-15</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://globustraduzioni.it/ru/they-say-about-me-ru.html</loc>
+    <lastmod>2022-11-15</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://globustraduzioni.it/ru/machinery-ru.html</loc>
+    <lastmod>2022-11-15</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://globustraduzioni.it/ru/tourism-ru.html</loc>
+    <lastmod>2022-11-15</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://globustraduzioni.it/ru/wine-ru.html</loc>
+    <lastmod>2022-11-15</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://globustraduzioni.it/ru/contacts-ru.html</loc>
+    <lastmod>2022-11-15</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
 </urlset>
